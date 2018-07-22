@@ -1,5 +1,5 @@
-# MoonLanding V1 Beta
-# 2018-07-09
+# MoonLanding V1 Beta Windows Version
+# 2018-07-22
 # Made By Gary Bard 
 # Absolutley free !!! Brought to you by HashPowerPool.com
 # This Script will keep you making money please consider donating!
