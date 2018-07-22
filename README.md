@@ -2,7 +2,6 @@
 # 2018-07-22
 # Made By Gary Bard 
 # Absolutely free !!! Brought to you by HashPowerPool.com
-# This Script will keep you making money please consider donating!
 
 # Donations are most welcome!
 # Money will be used to keep the pool funtional !
@@ -12,7 +11,7 @@
 # Aion-1 Address: 0xa01e968221584946dac1e6842bf985de7ff49c8b9913220ed793d64a150b2864
 
 # Step 1
-# Choose Which File is correct for your rig. IE if you have 6 cards in your rig,choose "Monitor_6card.batch"
+# Choose which file is correct for your rig. I.E if you have 6 cards in your rig,choose "Monitor_6card.batch"
 
 # Step 2
 # Setup The Miner and The GPU Card Monitor to Auto Launch on bootup
