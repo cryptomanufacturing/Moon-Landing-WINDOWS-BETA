@@ -14,7 +14,7 @@
 # Step 1
 # Choose Which File is correct for your rig. IE if you have 6 cards in your rig,choose "Monitor_6card.batch"
 
-# step 2
+# Step 2
 # Setup The Miner and The GPU Card Monitor to Auto Launch on bootup
 # click the "Windows + R" then type "Shell:startup"
 # Copy and paste a SHORTCUT to both the Miner and the GPU Card Monitor Batch file
