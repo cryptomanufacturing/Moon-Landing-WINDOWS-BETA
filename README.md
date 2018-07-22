@@ -24,4 +24,4 @@
 # Step 4
 # Enjoy!
 # Courtesy of HashPowerPool.com
-# Please Consider Donating
+
