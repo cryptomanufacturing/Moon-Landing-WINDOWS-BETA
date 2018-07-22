@@ -1,7 +1,7 @@
 # MoonLanding V1 Beta Windows Version
 # 2018-07-22
 # Made By Gary Bard 
-# Absolutley free !!! Brought to you by HashPowerPool.com
+# Absolutely free !!! Brought to you by HashPowerPool.com
 # This Script will keep you making money please consider donating!
 
 # Donations are most welcome!
@@ -19,10 +19,10 @@
 # click the "Windows + R" then type "Shell:startup"
 # Copy and paste a SHORTCUT to both the Miner and the GPU Card Monitor Batch file
 
-# Step3
+# Step 3
 # Adjust the threshold of Minimum Oparating Average Ram for your System, Right click the chosen Batch file  and edit line.. "if %gpu_average% GTR X", Input the desired Minimum Average Ram  (when Threshold is not met the system will reboot and relauch all programs automatically)
 
-# Step4
+# Step 4
 # Enjoy!
 # Courtesy of HashPowerPool.com
 # Please Consider Donating
