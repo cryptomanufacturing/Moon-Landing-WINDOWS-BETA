@@ -19,7 +19,7 @@
 # Copy and paste a SHORTCUT to both the Miner and the GPU Card Monitor Batch file
 
 # Step 3
-# Adjust the threshold of Minimum Oparating Average Ram for your System, Right click the chosen Batch file  and edit line.. "if %gpu_average% GTR X", Input the desired Minimum Average Ram  (when Threshold is not met the system will reboot and relauch all programs automatically)
+# Adjust the threshold of Minimum Operating Average Ram for your System, Right click the chosen Batch file  and edit line.. "if %gpu_average% GTR X", Input the desired Minimum Average Ram  (when Threshold is not met the system will reboot and relauch all programs automatically)
 
 # Step 4
 # Enjoy!
